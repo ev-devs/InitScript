@@ -6,9 +6,9 @@ Clone this repo and Change the directory to the repo itself.
 '$ git clone https://github.com/ev-devs/InitScript.git'
 
 ##How to run: 
-'cd InitScript'
-'./init.sh'
-'sudo reboot'
+'cd InitScript'<br />
+'./init.sh' <br />
+'sudo reboot' <br />
 
 ##Fine Details(How does this work?)
 LXDE-pi, (Lightweight X11 Desktop environment for the raspberry pi), is a free desktop environment that runs on Unix and Potus based systems. LXSession is the standard session manager used by LXDE-pi. When you edit the autostart file within the /lxsession/LXDE-pi directory, the programs in that file are run after LXDE-pi is loaded.
